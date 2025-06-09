@@ -1,3 +1,6 @@
 *.tar.gz
 *.tar.xz
 armadillo-14.4.3
+.vscode/
+*.o
+*.so
